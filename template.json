@@ -7,14 +7,14 @@
     "metadata": {
      "description": "Specify a unique name for your offer"
     },
-    "defaultValue": "Kapstan Access"
+    "defaultValue": "Kapstan Dev Access"
    },
    "mspOfferDescription": {
     "type": "string",
     "metadata": {
      "description": "Name of the Managed Service Provider offering"
     },
-    "defaultValue": "Test ARM Template for Kapstan Access"
+    "defaultValue": "Allows Kapstan to manage resources on your behalf"
    }
   },
   "variables": {
@@ -23,9 +23,9 @@
    "managedByTenantId": "80fb1a74-b9d6-453c-970c-529f60a6eca6",
    "authorizations": [
     {
-     "principalId": "0dc71ecf-ea3b-4ce6-b2f3-026c683d71ce",
-     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
-     "principalIdDisplayName": "kushagra-local-arm-auth"
+     "principalId": "023eb61f-ee5a-4db9-9201-b21c26a6b0c6",
+     "roleDefinitionId": "bda0d508-adf1-4af0-9c28-88919fc3ae06",
+     "principalIdDisplayName": "Kapstan_service_principal"
     }
    ]
   },
