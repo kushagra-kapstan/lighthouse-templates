@@ -24,7 +24,7 @@
    "authorizations": [
     {
      "principalId": "023eb61f-ee5a-4db9-9201-b21c26a6b0c6",
-     "roleDefinitionId": "bda0d508-adf1-4af0-9c28-88919fc3ae06",
+     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
      "principalIdDisplayName": "Kapstan_service_principal"
     }
    ]
