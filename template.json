@@ -32,7 +32,8 @@
      "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
      "principalIdDisplayName": "Kapstan_service_principal",
      "delegatedRoleDefinitionIds": [
-        "b24988ac-6180-42a0-ab88-20f7382dd24c"
+        "b24988ac-6180-42a0-ab88-20f7382dd24c",
+        "4d97b98b-1d4f-4787-a291-c67834d212e7"
       ]
     }
    ]
